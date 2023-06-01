@@ -22,6 +22,7 @@
 	  }
 	})
 
+	// function for speaker section
 	function speaker1(){
 		document.getElementById("guestName").textContent="Manish Agarwal";
 		document.getElementById("guestdesc").textContent="Inauguration Title Sponsor speech Speaker's session Coding round 1 Speaker's session Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto omnis tenetur corrupti officiis, assumenda in excepturi magnam laborum! Quod repellat aperiam, maxime blanditiis esse dignissimos enim ea accusantium ab laudantium.";
@@ -33,3 +34,5 @@
 		humanoid robots. Developed humanoid Robot for various educational & Service platforms, recently completed MTech from BITS Pilani in Data Science.`;
 		document.getElementById("speaker-morning").src="/assets/img/speakers/akash dixit.jpg"
 	  }
+
+	  // till here for speakers section

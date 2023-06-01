@@ -2823,6 +2823,12 @@ li.stylish-list {
   display: none;
 }
 
+
+
+/*  From here starting the speakers session */
+
+
+
 #sessions{
   margin-top: 40px;
 }
@@ -2877,3 +2883,4 @@ transition: all 300ms ease-in-out;
     width: 300px;
   }
 }
+/* till here is the speakers section */
